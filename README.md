@@ -1,6 +1,8 @@
 # Clustring of Individual household electric power consumption
 
-This is the code for "Clustring Household Power Consumption" using K-Means. The data set is available at: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
+This is the code for "Clustring Household Power Consumption" using K-Means. The data set is available at:
+
+https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
 ## Overview
 
