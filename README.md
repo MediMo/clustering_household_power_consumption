@@ -23,5 +23,3 @@ Notes:
 https://machinelearningmastery.com/how-to-load-and-explore-household-electricity-usage-data/
 
 https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-/blob/master/data_e_power.ipynb
-
-https://towardsdatascience.com/clustering-electricity-profiles-with-k-means-42d6d0644d00
